@@ -37,7 +37,7 @@ The project has five pages — Home, Catalog, Product, Cart / Checkout, About & 
 
 `wireframes/wireframes.html` shows all of them on one page together with the project description.
 
-**Team:** <ФИО>, <ФИО>, <ФИО>
+**Team:** Abubakir Daniyaruly, Bekarys Zhassuzakh, Adiyat Nurkenuly
 
 ## How to view locally
 
